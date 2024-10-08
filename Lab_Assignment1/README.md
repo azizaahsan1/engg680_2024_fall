@@ -1,3 +1,6 @@
-This is a sample README.md file. Please edit according to the instructions.
+Aziza Ahsan 30265829
+Sanzida Rahman 30265828
+Maggie Somers 30045443
+Rasmita Ghimire 30241058
 
-Thanks :D
+“This assignment is about analyzing math and english marks using python pandas and matplotlib using github and google colab.
